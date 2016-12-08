@@ -1,0 +1,8 @@
+prefix=/home/maetulj/tutorial/install
+
+Name: robot_setup_tf
+Description: Description of robot_setup_tf
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/maetulj/tutorial/install/lib 
+Requires: 
