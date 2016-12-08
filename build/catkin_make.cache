@@ -1,2 +1,2 @@
-learning_tf:robot_setup_tf
+learning_tf:r2d2:robot_setup_tf
 -DCATKIN_DEVEL_PREFIX=/home/maetulj/tutorial/devel -DCMAKE_INSTALL_PREFIX=/home/maetulj/tutorial/install -G Unix Makefiles

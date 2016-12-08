@@ -322,6 +322,12 @@ message_generation_DIR:PATH=/opt/ros/indigo/share/message_generation/cmake
 message_runtime_DIR:PATH=/opt/ros/indigo/share/message_runtime/cmake
 
 //Value Computed by CMake
+r2d2_BINARY_DIR:STATIC=/home/maetulj/tutorial/build/r2d2
+
+//Value Computed by CMake
+r2d2_SOURCE_DIR:STATIC=/home/maetulj/tutorial/src/r2d2
+
+//Value Computed by CMake
 robot_setup_tf_BINARY_DIR:STATIC=/home/maetulj/tutorial/build/robot_setup_tf
 
 //Value Computed by CMake
@@ -483,7 +489,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=4
+CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=5
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

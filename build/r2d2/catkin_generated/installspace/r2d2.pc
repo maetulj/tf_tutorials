@@ -1,0 +1,8 @@
+prefix=/home/maetulj/tutorial/install
+
+Name: r2d2
+Description: Description of r2d2
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/maetulj/tutorial/install/lib 
+Requires: 
